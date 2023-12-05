@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: DemoWebShop Login functinality Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 133.57 s - in DemoWebShop Login functinality Test
